@@ -17,5 +17,10 @@ Step 6: Pass these parameters in request body in the json_format
     "destination_station_id": "BPG",
     "date": "2022-12-28"
 }
-
+Step 7:
+{
+    "origin_station_id": "85",
+    "destination_station_id": "56",
+    "date": "2023-01-04"
+}
 Step 7: You would get the result in output section.
